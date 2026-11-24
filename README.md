@@ -173,9 +173,9 @@ A web-based e-commerce project focused on creating an engaging online shopping e
   <a href="https://github.com/Gauri-wakchaure">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/gauri-wakchaure-9a2a0632a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/gauri-wakchaure-9a2a0632a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="mailto:gaureewakchaure07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
