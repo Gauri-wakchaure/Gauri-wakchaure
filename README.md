@@ -8,11 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+Responsive+Web+Applications;Learning+React.js;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/gauri-wakchaure">
+  <a href="https://github.com/Gauri-wakchaure">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/gauri-wakchaure-9a2a0632a/">
@@ -24,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauri-wakchaure&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gauri-wakchaure&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -33,7 +29,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working on **[E-Commerce Website](https://gauri-wakchaure.github.io/E-Commerce_Website/)**
+- 🔭 Currently working on [E-Commerce Website](https://gauri-wakchaure.github.io/E-Commerce_Website/)
 - 🌱 Currently learning **React.js**
 - 💻 Interested in **Java Full Stack Development**
 - 🛠️ Enjoy building responsive and user-friendly web applications.
@@ -80,8 +76,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
 
 ---
@@ -94,15 +90,15 @@
 
 A web-based e-commerce project focused on creating an engaging online shopping experience.
 
-- Developing an interactive shopping interface.
-- Working on product listings and shopping cart functionality.
-- Focused on responsive design and user experience.
+- Interactive shopping interface
+- Product listings and shopping cart functionality
+- Responsive design and user experience
 
 <p align="center">
   <a href="https://gauri-wakchaure.github.io/E-Commerce_Website/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
-  <a href="https://github.com/gauri-wakchaure/E-Commerce_Website">
+  <a href="https://github.com/Gauri-wakchaure/E-Commerce_Website">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
   </a>
 </p>
@@ -111,73 +107,59 @@ A web-based e-commerce project focused on creating an engaging online shopping e
 
 ---
 
-<!-- ================= GITHUB STATISTICS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://ghstats.dev/">
-    <img src="https://ghstats.dev/api/card?username=gauri-wakchaure&theme=tokyonight" width="100%" alt="GitHub Statistics and Activity Grade" />
-  </a>
-</p>
-
-### 💻 Most Used Programming Languages
-
-<p align="center">
-  <a href="https://ghstats.dev/">
-    <img src="https://ghstats.dev/api/langs?username=gauri-wakchaure&theme=tokyonight&layout=donut" alt="Most Used Programming Languages" />
-  </a>
-</p>
-
-### 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <a href="https://streak-stats.demolab.com/">
-    <img src="https://streak-stats.demolab.com/?user=gauri-wakchaure&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+  <a href="https://gitshine.com/stats/Gauri-wakchaure">
+    <img src="https://gitshine.com/card/Gauri-wakchaure" width="100%" alt="GitHub Statistics, Contribution Graph, Streak and Top Languages" />
   </a>
 </p>
 
 ---
 
-<!-- ================= CONTRIBUTION CALENDAR ================= -->
-
-## 🗓️ GitHub Contribution Calendar
+## 💻 Programming Language Statistics
 
 <p align="center">
-  <a href="https://github.com/gauri-wakchaure">
-    <img src="https://github-contributions.vercel.app/api/v1/gauri-wakchaure" width="100%" alt="GitHub Contribution Calendar" />
+  <a href="https://gitshine.com/stats/Gauri-wakchaure">
+    <img src="https://gitshine.com/card/Gauri-wakchaure?layout=languages" width="49%" alt="Top Programming Languages" />
+  </a>
+  <a href="https://gitshine.com/stats/Gauri-wakchaure">
+    <img src="https://gitshine.com/card/Gauri-wakchaure?layout=compact" width="49%" alt="GitHub Contribution Streak" />
   </a>
 </p>
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## 📈 GitHub Contribution Activity
+## 🔥 GitHub Activity and Coding Habits
 
 <p align="center">
-  <a href="https://github.com/gauri-wakchaure">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri-wakchaure&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <a href="https://gitshine.com/stats/Gauri-wakchaure">
+    <img src="https://gitshine.com/card/Gauri-wakchaure?layout=week" width="49%" alt="Weekly Coding Activity" />
   </a>
-</p>
-
-### 📉 Last 90 Days Activity
-
-<p align="center">
-  <a href="https://ghstats.dev/">
-    <img src="https://ghstats.dev/api/sparkline?username=gauri-wakchaure&days=90&width=800&height=180" width="100%" alt="GitHub Activity Sparkline - Last 90 Days" />
+  <a href="https://gitshine.com/stats/Gauri-wakchaure">
+    <img src="https://gitshine.com/card/Gauri-wakchaure?layout=repos" width="49%" alt="Top Repositories" />
   </a>
 </p>
 
 ---
 
-<!-- ================= GITHUB TROPHIES ================= -->
-
-## 🏆 GitHub Achievements
+## 📈 GitHub Contribution Activity - Last 90 Days
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/">
-    <img src="https://github-profile-trophy.vercel.app/?username=gauri-wakchaure&theme=tokyonight&no-frame=true&column=4&margin-w=10" width="100%" alt="GitHub Profile Trophies" />
+  <a href="https://github.com/Gauri-wakchaure">
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Gauri-wakchaure&theme=tokyo-night&days=90&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity for the Last 90 Days" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements and Activity Badges
+
+<p align="center">
+  <a href="https://gitshine.com/stats/Gauri-wakchaure#badges">
+    <img src="https://gitshine.com/badges/Gauri-wakchaure" width="100%" alt="GitHub Achievement Badges" />
   </a>
 </p>
 
@@ -188,7 +170,7 @@ A web-based e-commerce project focused on creating an engaging online shopping e
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/gauri-wakchaure">
+  <a href="https://github.com/Gauri-wakchaure">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/gauri-wakchaure-9a2a0632a/">
